@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-header {
+    background-image: url('https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?size=626&ext=jpg&uid=R106371212&ga=GA1.2.1953808244.1685305762&semt=sph');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
+}
+
+.services-header {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('Images/office-desktop-with-laptop-analytics\ -\ Copy.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    
+}
+
+.contact-header {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('Images/contact-helpdesk-customer-service-spaceship-graphic-concept.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
+}
+
+#header-text {
+    color: #ffffff;
+    
+}
+
+#list-style {
+    list-style-type: square;
+    color: #fe9e00;
+}
+
+footer {
+    background-color: #000340;
+}
